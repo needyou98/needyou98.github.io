@@ -1,0 +1,39 @@
+
+.travel {
+    border: 8px solid;
+    height: 58px;
+    width: 165px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+    font-size: 40px;
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.menu {
+    margin: 60px auto;
+    text-align: center;
+}
+
+.menu_style {
+    margin: 20px;
+    font-family: Helvetica, sans-serif;
+    color: grey;
+    text-decoration: none;
+}
+
+
+h2 {
+    font-family: Helvetica, sans-serif;
+    color: rgb(88,89,91);
+}
+
+img {
+    width: 90%;
+}
+
+.image {
+    text-align: center;
+}
